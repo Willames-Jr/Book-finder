@@ -1,6 +1,8 @@
-# book_finder
+# Book Finder
 
-A new Flutter project.
+Programa básico feito com Flutter para buscar livros, lista-los, mostrar algumas informações sobre e redirecionar o usuário para a pagina do livro no Google Books, esses dados foram obtidos consumindo a api do Google Books.
+
+Basic program made with Flutter to search for books, list them, show some information about and redirect the user to the book page on Google Books, these data were obtained using the Google Books api.
 
 ## Getting Started
 
